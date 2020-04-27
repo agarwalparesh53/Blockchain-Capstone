@@ -23,7 +23,7 @@ https://rinkeby.opensea.io/assets/povtoken
 
 ## Open Sea Purchase Transactions
 
-!(purchase transactions)[images/opensea%20transactions.png]
+![purchase transactions](images/opensea_transactions.png)
 
 - https://rinkeby.etherscan.io/tx/0x98678e40c1e26c418f4dfb9892b27a739af0f20d381c48a07d5b6a29024d4d6b
 - https://rinkeby.etherscan.io/tx/0xe0cb0e7cbfa0201668fc7f275e44eeaef955c5f6488ad78654605bbfb3b7fd5a
