@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9cd3be5-7d3b-4aef-ad5e-78420b3d9f82" name="Default Changelist" comment="" />
+    <list default="true" id="f9cd3be5-7d3b-4aef-ad5e-78420b3d9f82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +34,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eth-contracts/migrations/2_deploy_contracts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/opensea transactions.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -46,15 +53,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eth-contracts/test/TestSquareVerifier.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -81,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -95,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eth-contracts/build/contracts/SolnSquareVerifier.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="673" selection-end-column="3" />
+            <state relative-caret-position="195">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="673" selection-end-column="3" />
               <folding>
                 <element signature="e#310#842#0" />
                 <element signature="e#848#1382#0" />
@@ -190,6 +188,19 @@
               <item name="Blockchain-Capstone" type="462c0819:PsiDirectoryNode" />
               <item name="eth-contracts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Blockchain-Capstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain-Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="eth-contracts" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blockchain-Capstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain-Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="eth-contracts" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -199,6 +210,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/eth-contracts/contracts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -206,6 +218,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/eth-contracts/contracts" />
     </key>
@@ -231,18 +246,18 @@
       <updated>1587932913578</updated>
       <workItem from="1587932918489" duration="4484000" />
       <workItem from="1587945068791" duration="220000" />
-      <workItem from="1587945302626" duration="17162000" />
+      <workItem from="1587945302626" duration="18083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21866000" />
+    <option name="totallyTimeSpent" value="22787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2048" y="161" width="1920" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22097977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22097977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -257,7 +272,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49840257" visible="true" weight="0.4846765" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49840257" visible="true" weight="0.4846765" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159746" side_tool="true" weight="0.3291714" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -276,6 +291,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/drafts/Counters.sol">
@@ -341,13 +359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eth-contracts/contracts/SolnSquareVerifier.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zokrates/code/square/witness">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -355,37 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eth-contracts/build/contracts/SolnSquareVerifier.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="673" selection-end-column="3" />
-          <folding>
-            <element signature="e#310#842#0" />
-            <element signature="e#848#1382#0" />
-            <element signature="e#1388#1651#0" />
-            <element signature="e#1657#1905#0" />
-            <element signature="e#1911#2315#0" />
-            <element signature="e#2321#2846#0" />
-            <element signature="e#2365#2791#0" />
-            <element signature="e#2852#3102#0" />
-            <element signature="e#2906#3039#0" />
-            <element signature="e#3108#3529#0" />
-            <element signature="n#!!block;n#ast#0;n#!!top" />
-            <element signature="n#!!block;n#legacyAST#0;n#!!top" />
-            <element signature="n#!!block;n#compiler#0;n#!!top" />
-            <element signature="n#!!block;n#networks#0;n#!!top" />
-            <element signature="n#!!block;n#devdoc#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -413,7 +393,48 @@
     <entry file="file://$PROJECT_DIR$/eth-contracts/migrations/2_deploy_contracts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/opensea transactions.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eth-contracts/contracts/SolnSquareVerifier.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eth-contracts/build/contracts/SolnSquareVerifier.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="673" selection-end-column="3" />
+          <folding>
+            <element signature="e#310#842#0" />
+            <element signature="e#848#1382#0" />
+            <element signature="e#1388#1651#0" />
+            <element signature="e#1657#1905#0" />
+            <element signature="e#1911#2315#0" />
+            <element signature="e#2321#2846#0" />
+            <element signature="e#2365#2791#0" />
+            <element signature="e#2852#3102#0" />
+            <element signature="e#2906#3039#0" />
+            <element signature="e#3108#3529#0" />
+            <element signature="n#!!block;n#ast#0;n#!!top" />
+            <element signature="n#!!block;n#legacyAST#0;n#!!top" />
+            <element signature="n#!!block;n#compiler#0;n#!!top" />
+            <element signature="n#!!block;n#networks#0;n#!!top" />
+            <element signature="n#!!block;n#devdoc#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
