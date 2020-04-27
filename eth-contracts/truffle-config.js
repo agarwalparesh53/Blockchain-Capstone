@@ -58,7 +58,8 @@ module.exports = {
           network_id: 4,       // rinkeby's id
           gas: 4500000,        // rinkeby has a lower block limit than mainnet
           gasPrice: 10000000000,
-          networkCheckTimeout: 10000000
+          networkCheckTimeout: 10000000,
+          skipDryRun: true
       }
 
 
