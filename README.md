@@ -3,10 +3,21 @@
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
 # Write up for testing
+
+## Library Versions
+Truffle v5.1.21 (core: 5.1.21)
+Solidity v0.5.16 (solc-js)
+Node v14.0.0
+Web3.js v1.2.1
+
+## Testing Instructions
 `rm -rf node_modules`
 `npm install`
 *make sure truffle is running*
 `truffle test`
+
+![tests_passing](images/tests_passing.png)
+
 
 # Post Deploy Details
 ## Deployment File Link
@@ -24,8 +35,6 @@ https://rinkeby.opensea.io/assets/povtoken
 ## Open Sea Purchase Transactions
 
 ![purchase transactions](images/opensea_transactions.png)
-
-![tests_passing](images/tests_passing.png)
 
 - https://rinkeby.etherscan.io/tx/0x98678e40c1e26c418f4dfb9892b27a739af0f20d381c48a07d5b6a29024d4d6b
 - https://rinkeby.etherscan.io/tx/0xe0cb0e7cbfa0201668fc7f275e44eeaef955c5f6488ad78654605bbfb3b7fd5a
